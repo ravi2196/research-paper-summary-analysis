@@ -1,4 +1,4 @@
-# PDF Text Extraction and Summarization
+# PDF Text Extraction, Summarization and Analysis
 
 This repository provides a Python script to extract text from a PDF file and summarize it using Hugging Face's transformer models. The script uses `pdfplumber` for PDF text extraction and `transformers` library for summarization with a PyTorch backend.
 
